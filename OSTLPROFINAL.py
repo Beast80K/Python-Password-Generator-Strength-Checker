@@ -1,6 +1,7 @@
 from tkinter import*
 import random #IMPORTED FOR RANDOM NUMBER GENERATION
-import sys 
+import sys
+import re
 import time #IMPORTED FOR TIME LABEL
 import tkinter.messagebox #IMPORTED MESSAGEBOX FOR ABOUT BUTTON
 root = Tk()  #window creation
